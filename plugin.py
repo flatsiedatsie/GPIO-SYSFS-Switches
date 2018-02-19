@@ -3,7 +3,7 @@
 # Author: BlauweBuis
 #
 """
-<plugin key="SYSFS-Pins" name="SYSFS-Pins" author="blauwebuis" version="0.1.0" wikilink="http://www.domoticz.com/wiki/plugins" externallink="https://html5zombo.com/">
+<plugin key="SYSFS-Switches" name="SYSFS-Switches" author="blauwebuis" version="0.1.0" wikilink="http://www.domoticz.com/wiki/plugins" externallink="https://html5zombo.com/">
 	<description>
 		Set the SYSFS OUTPUT pins. Make sure you set the GPIO numbers, and not the physical pin numbers.
 		Restart Domoticz for it to take effect. This plugin assumes your SYSFS GPIO hardware plugin is set to "automatic". Pins are unexported when Domoticz closes.
