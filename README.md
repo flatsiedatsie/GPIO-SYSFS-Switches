@@ -16,12 +16,12 @@ Download the plugin from Github, and place it into a folder under your plugins d
 
 Or enter these commands in the terminal:
 
-'''
+```
  cd domoticz/plugins
  git clone https://github.com/flatsiedatsie/GPIO-SYSFS-Switches.git sysfs-switches
  cd sysfs-switches
  chmod +x plugin.py
-'''
+```
 
 ##Known problems
 
